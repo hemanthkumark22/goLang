@@ -15,7 +15,7 @@ func mvariableData() {
 	// fmt.Println("CompanyRevenue:", companyRevenue)
 	var (
 		empName      = "hemanth"
-		salaryPA     = 150000.45
+		salaryPA     = 150000.80
 		empName1     = "hari"
 		emp1salaryPA = 160000
 	)
