@@ -11,4 +11,9 @@ func main() {
 
 	name := [4]string{"Hem", "Tem", "Ram", "Abdul"}
 	fmt.Println(name)
+
+	myArray := [3]int{1, 2, 3}
+	myArrayCopy := myArray
+	myArray[2] = 4 // Changed from string to int to match array type
+	fmt.Println(myArray, myArrayCopy)
 }
