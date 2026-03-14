@@ -20,4 +20,5 @@ func main() {
 	//append two string variable "rollNo to names"
 	names = append(names, rollNo...)
 	fmt.Println(names)
+	fmt.Println(len(names))
 }
