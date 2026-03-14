@@ -10,7 +10,7 @@ func main() {
 	case 10:
 		fmt.Println("you are failed")
 	case 50:
-		fmt.Println("you are pass")
+		fmt.Println("you are passed")
 
 	default:
 		fmt.Println("marks: ", marks)
