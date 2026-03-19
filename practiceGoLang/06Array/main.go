@@ -14,6 +14,6 @@ func main() {
 
 	myArray := [3]int{1, 2, 3}
 	myArrayCopy := myArray
-	myArray[2] = 4 // Changed from string to int to match array type
+	myArray[2] = 4 // it will change the value for the initial array but not for the copy of the array because it is a value type
 	fmt.Println(myArray, myArrayCopy)
 }
