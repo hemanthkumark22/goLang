@@ -1,0 +1,60 @@
+[33mcommit cf27c04662a22f92eeb85f9534c9887c674d0318[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Hemanth Kumar K <hemanthkumarkotee@gmail.com>
+Date:   Thu Mar 19 20:15:34 2026 +0530
+
+    test.gofile
+
+[33mcommit 0bd37f0bf277a3618ce09fe2cc60adff938b660a[m
+Author: Hemanth Kumar K <hemanthkumarkotee@gmail.com>
+Date:   Thu Mar 19 20:09:20 2026 +0530
+
+    test2
+
+[33mcommit ce46c1729f3d61c57e61d6bd1cf43d801f02221e[m
+Author: Hemanth Kumar K <hemanthkumarkotee@gmail.com>
+Date:   Thu Mar 19 20:07:43 2026 +0530
+
+    test
+
+[33mcommit 318e2be7c17b5b0891df3a5fe786ec1b4c175ddd[m
+Author: hemanthkumarkotee <hemanthkumarkotee@gmail.com>
+Date:   Sat Mar 14 09:43:42 2026 +0530
+
+    testing
+
+[33mcommit d00d49b484254eefebd0f21cc46f68b1d7cbad36[m
+Author: hemanthkumarkotee <hemanthkumarkotee@gmail.com>
+Date:   Sat Mar 14 09:41:47 2026 +0530
+
+    testing the variable
+
+[33mcommit efab8dd9184c98501d1ad397d86bb9915c6e7db1[m
+Merge: c8009a6 7c3e835
+Author: hemanthkumarkotee <hemanthkumarkotee@gmail.com>
+Date:   Sat Mar 14 09:31:41 2026 +0530
+
+    Merge branch 'main' of https://github.com/hemanthkumark22/goLang
+
+[33mcommit c8009a64afe1d27da3d28d6a12d0203221f74cc8[m
+Author: hemanthkumarkotee <hemanthkumarkotee@gmail.com>
+Date:   Sat Mar 14 09:26:48 2026 +0530
+
+    -added mvariableData function
+
+[33mcommit b6bab06b0a967c4e9944100be09d40cdaf2260f5[m
+Author: hemanthkumarkotee <hemanthkumarkotee@gmail.com>
+Date:   Sat Mar 14 09:14:30 2026 +0530
+
+    -added the 01variable new file and moved
+
+[33mcommit 7c3e835e77bfff680c6be85a6b5979644765955a[m
+Author: Hemanth Koteeswaran <hemanth.koteeswaran@ifs.com>
+Date:   Tue Feb 24 11:00:57 2026 +0530
+
+    //modified for copyArray concept
+
+[33mcommit 688cc52d503c8c0df4bf535af351a0cfbe5b3aa6[m
+Author: hemanthkumarkotee <hemanthkumarkotee@gmail.com>
+Date:   Mon Feb 23 09:15:38 2026 +0530
+
+    Initial commit
